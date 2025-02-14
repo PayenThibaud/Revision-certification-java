@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.example.ex1_Access_modifiers"},{"l":"org.example.ex1_Access_modifiers.Herite"},{"l":"org.example.ex1_Access_modifiers.Protected"}];updateSearchResults();
