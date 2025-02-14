@@ -27,6 +27,7 @@ public class Main {
 
         System.out.println(op.inversionDesBit(-100));
 
+        
 //        double x = 39.21;
 //        float y = 2.1;
 //        var z = x + y;

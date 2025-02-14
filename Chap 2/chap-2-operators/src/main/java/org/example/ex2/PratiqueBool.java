@@ -43,7 +43,7 @@ public class PratiqueBool {
         return false;
     }
 
-    // different   ;  XOR
+    // different   :  XOR
     public boolean chapeau(boolean a, boolean b)
     {
         System.out.println( "chapeau : ");

@@ -6,4 +6,5 @@ public class ClasseProtected {
     protected void afficherMessageProtected() {
         System.out.println(message);
     }
+
 }

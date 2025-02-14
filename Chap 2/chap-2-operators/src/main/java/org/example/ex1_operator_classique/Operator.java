@@ -11,7 +11,7 @@ public class Operator {
     }
 
     public int inversionDesBit (int a) {
-        return ~a;  // inverse le binaire,  0001  = 1110    inverse le signe et -1
+        return ~a;  // inverse le binaire,  0001  = 1110     inverse le signe et -1
     }
 
     public int positifMetEnValeur (int a) {

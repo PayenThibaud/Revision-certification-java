@@ -14,7 +14,6 @@ public class Voiture {
         var cc = "cc";
     }
 
-
     // Constructor
 
     public Voiture(String nom, int vitesse) {

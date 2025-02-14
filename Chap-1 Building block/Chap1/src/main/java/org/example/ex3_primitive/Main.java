@@ -25,7 +25,6 @@ public class Main {
 //        wat = "wat";
 
 
-
 //        int int = 2;  nop
 //        var help = 1/0;
 //        System.out.println(help);

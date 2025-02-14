@@ -55,7 +55,6 @@ public class Main {
         System.out.println(1 ^ 11);  // bool les bit, 0001 1011 => 1010
         System.out.println(11 ^ ~11);  // fera tj -1
 
-
         if (true ^ false) {
             System.out.println("C est vrai");
         } else {

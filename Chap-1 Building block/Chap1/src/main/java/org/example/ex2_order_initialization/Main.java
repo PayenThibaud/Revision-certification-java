@@ -9,6 +9,7 @@ public class Main {
         voiture.nom = new String("WAT");
         System.out.println(voiture.nom);
         String nom = "A";
+
         {
             // permet de mettre des variable qui ne sont pas utilisable dehors.
             nom = "B";
@@ -16,6 +17,7 @@ public class Main {
             String nom2 = "C";
             System.out.println(nom2);
         }
+
         System.out.println(nom);
 //         System.out.println(nom2);   // n existe pas.
         voiture = null;
